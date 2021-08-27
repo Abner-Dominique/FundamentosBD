@@ -6,8 +6,8 @@
 Integrantes do grupo:
 
 
-Abner Dominique De Oliveira Poquiviqui
-Letícia Caroline Troiano Nascimento
+Abner Dominique De Oliveira Poquiviqui, 
+Letícia Caroline Troiano Nascimento e 
 Kaleb Josué Moreira Pastor
 *caroline40troiano@gmail.com ;
 *abnerdominique8@gmail.com ;
