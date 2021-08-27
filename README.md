@@ -1,15 +1,13 @@
 # FundamentosBD
 3° Bimestre
 <<<<<<< HEAD
-Letícia Caroline Troiano Nascimento
-*caroline40troiano@gmail.com
 =======
 
 Integrantes do grupo:
 
 
 Kaleb Josué Moreira Pastor
-
+Letícia Caroline Troiano Nascimento
 *caroline40troiano@gmail.com
 *abnerdominique8@gmail.com
 *kalebalunoifmt@gmail.com
